@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="484px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 484"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#22940C;stroke-width:2.36222}
+    .fil3 {fill:#22940C}
+    .fil4 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+    .fil0 {fill:url(#id3)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="264.362" y1="161.528" x2="292.939" y2="75.753">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BB63A0"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#54438C"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="62.5694" y1="280.033" x2="422.497" y2="280.033">
+   <stop offset="0" style="stop-opacity:1; stop-color:#52C6D4"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#4EAABF"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#4B95B1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#498DAA"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="118.189" y1="143.262" x2="364.76" y2="364.697">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2FFF00"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#31A71A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#344E34"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="39.455" y1="308.594" x2="403.1" y2="308.594">
+   <stop offset="0" style="stop-opacity:1; stop-color:#16BADA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2E8CAB"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_556694592">
+   <path class="fil0" d="M244 343c-102,119 -212,-10 -204,-12 26,106 167,102 224,20 0,0 78,-104 90,-111 0,0 18,-17 28,-21 0,0 10,-4 21,8 -18,-25 -36,-30 -58,-5l-101 121z"/>
+   <path class="fil1" d="M72 354c25,45 109,63 172,-10l101 -121c22,-25 40,-20 58,5 1,1 2,2 2,3 0,0 12,15 17,63 -1,-116 -52,-180 -131,-73 -20,23 -77,109 -87,117 0,0 -30,37 -71,24 0,0 -35,-6 -43,-40 -16,-55 36,-44 35,-44 -61,-20 -74,40 -53,76z"/>
+   <path class="fil2" d="M231 281l110 46c37,16 65,35 85,31 41,-6 44,-37 31,-116 -12,-70 -65,-132 -127,-62 0,0 44,-24 62,3 0,0 29,31 28,96 0,0 7,48 -33,35 0,0 -138,-48 -211,-79 -90,-35 -144,-4 -157,87 0,0 16,-39 46,-59 44,-37 125,1 166,18z"/>
+   <path class="fil3 str0" d="M38 326c42,-132 201,-1 230,12l66 32 76 32c0,0 48,22 62,-20 0,0 18,-44 3,-99 0,0 -20,-75 -38,-97 4,11 17,41 20,56 13,79 10,110 -31,116 -20,4 -48,-15 -85,-31l-110 -46c-41,-17 -122,-55 -166,-18 -26,17 -32,53 -27,63z"/>
+   <ellipse class="fil4" cx="279" cy="119" rx="44" ry="46"/>
+  </g>
+ </g>
+</svg>

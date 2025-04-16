@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1029px" height="1066px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1029 1066"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#ED3237;stroke-width:2.08347}
+    .str0 {stroke:#848688;stroke-width:0.900002}
+    .fil1 {fill:none}
+    .fil2 {fill:#848688}
+    .fil0 {fill:#F9B69E}
+    .fil3 {fill:#ED3237}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M20 30l0 0c-27,28 -26,72 1,98l395 387 -387 395c-26,28 -26,72 1,98l1 1c27,26 71,26 98,-1l386 -396 396 387c27,27 71,26 98,-1l0 0c27,-27 26,-71 -1,-98l-395 -387 387 -395c26,-27 26,-72 -2,-98l0 0c-27,-27 -71,-27 -98,1l-387 395 -395 -387c-27,-27 -71,-26 -98,1z"/>
+   </clipPath>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <polygon class="fil0" points="-300,-300 1329,-300 1329,1328 -300,1328 "/>
+   <g id="Camada_x0020_1_0">
+    <metadata id="CorelCorpID_1Corel-Layer"/>
+   </g>
+  </g>
+  <path id="1" class="fil1" d="M20 30l0 0c-27,28 -26,72 1,98l395 387 -387 395c-26,28 -26,72 1,98l1 1c27,26 71,26 98,-1l386 -396 396 387c27,27 71,26 98,-1l0 0c27,-27 26,-71 -1,-98l-395 -387 387 -395c26,-27 26,-72 -2,-98l0 0c-27,-27 -71,-27 -98,1l-387 395 -395 -387c-27,-27 -71,-26 -98,1z"/>
+  <path class="fil2 str0" d="M66 951c-8,0 -2,-3 -9,2 -8,89 37,71 155,71l665 1c66,-1 71,-37 65,-104 -2,-28 -11,-20 -14,-43 -9,-86 9,-420 0,-499 -3,-25 -8,-19 8,-39 37,-46 32,-35 41,-77 -54,-54 -70,4 -156,115 -14,18 -63,67 -52,96 7,18 32,27 52,14 15,-10 21,-34 38,-40l1 425c-38,8 -339,27 -401,31 -18,2 -363,24 -375,30 -13,5 -12,8 -18,17z"/>
+  <path class="fil2 str0" d="M540 445c13,15 14,53 30,66 8,6 54,25 64,30 19,9 45,23 64,30 28,10 52,-7 50,-33 -3,-36 -87,-56 -118,-74 -20,-12 -44,-106 -56,-132 -14,-30 -22,-33 -54,-44 -41,-14 -39,-9 -79,1 -78,19 -90,14 -133,54 -10,9 -43,35 -49,45 -17,27 4,55 33,51 39,-5 46,-62 122,-71 -5,31 -25,75 -35,105 -9,26 -61,188 -77,196 -43,22 -134,29 -149,56 -10,18 -1,39 12,46 23,13 80,-13 106,-21 27,-8 84,-19 96,-41 6,-11 31,-82 34,-98 21,6 101,62 117,75 7,48 -5,124 3,166 4,22 29,33 50,23 23,-10 18,-40 18,-65 -1,-171 29,-150 -100,-227l51 -138z"/>
+  <path class="fil2 str0" d="M516 132c-96,44 -25,175 61,134 86,-40 29,-176 -61,-134z"/>
+  <circle class="fil3 str1" cx="549" cy="673" r="17"/>
+  <g id="_361375912">
+   <polygon class="fil3 str1" points="620,702 643,724 603,700 611,694 592,671 625,694 "/>
+   <polygon class="fil3 str1" points="640,666 672,668 625,675 628,665 599,659 639,656 "/>
+   <polygon class="fil3 str1" points="630,627 657,610 624,643 621,633 594,646 624,619 "/>
+   <polygon class="fil3 str1" points="591,600 597,569 599,615 590,611 581,640 581,600 "/>
+  </g>
+ </g>
+</svg>
